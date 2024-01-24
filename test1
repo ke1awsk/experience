@@ -16,7 +16,7 @@ local list = {
 	[1451439645] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Free/KingLegacyFree.lua'))()",
 
 	--Blox Fruit
-	[994732206] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Free/BloxFruitFreeV3.lua'))()",
+	[994732206] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/ke1awsk/experience/main/bf'))()",
 
 	--Pet Simulator X
 	[2316994223] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Free/PetSimXFree.lua'))()",
